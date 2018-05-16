@@ -1,0 +1,8 @@
+Developed by Cale Anderson
+2018 MIT License
+
+#Usage
+Add a google account user name and password at the top of the file where prompted. Then run in python and it will send texts through the google account. You just have to know the number and service provider of the person you want to send the texts to. 
+
+#Requirements
+Only requires the smtplib library for python which I believe is standard. 
